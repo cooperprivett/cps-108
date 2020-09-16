@@ -1,0 +1,18 @@
+
+=========================== lesson-02.ipynb ===========================
+
+The solution for Exercise 11 does not yet produce the correct output.
+The solution for Exercise 12 does not yet produce the correct output.
+The solution for Exercise 13 does not yet produce the correct output.
+The solution for Exercise 14 does not yet produce the correct output.
+The solution for Exercise 15 does not yet produce the correct output.
+The solution for Exercise 16 does not yet produce the correct output.
+
+Score: 10 / 16 = 62%
+
+=========================== lesson-03.ipynb ===========================
+
+The solution for Exercise 4 does not yet produce the correct output.
+The solution for Exercise 5 does not yet produce the correct output.
+
+Score: 4 / 6 = 66%
