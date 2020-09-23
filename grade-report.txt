@@ -20,3 +20,15 @@ Score: 4 / 6 = 66%
 =========================== lesson-04.ipynb ===========================
 
 Score: 5 / 5 = 100%
+
+=========================== lesson-05.ipynb ===========================
+
+The solution for Exercise 2 does not yet produce the correct output.
+The solution for Exercise 4 does not yet produce the correct output.
+The solution for Exercise 5 does not yet produce the correct output.
+There does not yet seem to be a solution for Exercise 6
+There does not yet seem to be a solution for Exercise 7
+There does not yet seem to be a solution for Exercise 8
+There does not yet seem to be a solution for Exercise 9
+
+Score: 2 / 9 = 22%
