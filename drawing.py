@@ -35,6 +35,7 @@ c.create_rectangle(50, 50, 500, 500, fill='red')
 c.create_oval(350, 50, 500, 200, fill='green')
 c.create_rectangle(50, 450, 500, 500, fill='blue')
 
+
 for y in range(50, 500, 50):
     c.create_line(0, y, 500, y)
     c.create_text(18, y + 10, text=str(y))
