@@ -40,6 +40,6 @@ The solution for Exercise 6 does not yet produce the correct output.
 The solution for Exercise 7 does not yet produce the correct output.
 The solution for Exercise 8 does not yet produce the correct output.
 The solution for Exercise 9 does not yet produce the correct output.
-There does not yet seem to be a solution for Exercise 10
+The solution for Exercise 10 does not yet produce the correct output.
 
 Score: 4 / 10 = 40%
