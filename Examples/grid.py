@@ -5,15 +5,9 @@ c = Canvas(root, width=500, height=500)
 c.pack()
 
 # Put drawing here!
-<<<<<<< HEAD
-c.create_rectangle(50, 50, 150, 150, fill='red')
-c.create_polygon(300, 50, 350, 200, 250, 200, fill='green')
-c.create_oval(150, 250, 300, 400, fill='blue')
-=======
 c.create_rectangle(50, 50, 250, 250, fill='red')
 c.create_oval(350, 50, 250, 250, 500, fill='green')
 c.create_rectangle(50, 50, 300, 400, fill='blue')
->>>>>>> 31e8cdb... Class
 
 for y in range(50, 500, 50):
     c.create_line(0, y, 500, y)
