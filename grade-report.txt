@@ -36,14 +36,12 @@ Score: 2 / 9 = 22%
 =========================== lesson-06.ipynb ===========================
 
 The solution for Exercise 7 does not yet produce the correct output.
-The solution for Exercise 8 does not yet produce the correct output.
-The solution for Exercise 10 does not yet produce the correct output.
 
-Score: 7 / 10 = 70%
+Score: 9 / 10 = 90%
 
 =========================== lesson-07.ipynb ===========================
 
-There does not yet seem to be a solution for Exercise 1
+The solution for Exercise 1 does not yet produce the correct output.
 The solution for Exercise 3 does not yet produce the correct output.
 The solution for Exercise 6 does not yet produce the correct output.
 
