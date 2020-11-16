@@ -12,10 +12,7 @@ Score: 10 / 16 = 62%
 
 =========================== lesson-03.ipynb ===========================
 
-The solution for Exercise 4 does not yet produce the correct output.
-The solution for Exercise 5 does not yet produce the correct output.
-
-Score: 4 / 6 = 66%
+Score: 6 / 6 = 100%
 
 =========================== lesson-04.ipynb ===========================
 
@@ -23,15 +20,9 @@ Score: 5 / 5 = 100%
 
 =========================== lesson-05.ipynb ===========================
 
-The solution for Exercise 2 does not yet produce the correct output.
-The solution for Exercise 4 does not yet produce the correct output.
-The solution for Exercise 5 does not yet produce the correct output.
-There does not yet seem to be a solution for Exercise 6
-The solution for Exercise 7 does not yet produce the correct output.
-The solution for Exercise 8 does not yet produce the correct output.
 The solution for Exercise 9 does not yet produce the correct output.
 
-Score: 2 / 9 = 22%
+Score: 8 / 9 = 88%
 
 =========================== lesson-06.ipynb ===========================
 
@@ -56,3 +47,36 @@ There does not yet seem to be a solution for Exercise 4
 There does not yet seem to be a solution for Exercise 5
 
 Score: 0 / 5 = 0%
+
+=========================== lesson-09.ipynb ===========================
+
+There does not yet seem to be a solution for Exercise 1
+There does not yet seem to be a solution for Exercise 2
+There does not yet seem to be a solution for Exercise 3
+There does not yet seem to be a solution for Exercise 4
+There does not yet seem to be a solution for Exercise 5
+
+Score: 0 / 5 = 0%
+
+=========================== lesson-10.ipynb ===========================
+
+Score: 5 / 5 = 100%
+
+=========================== lesson-11.ipynb ===========================
+
+There does not yet seem to be a solution for Exercise 1
+There does not yet seem to be a solution for Exercise 2
+There does not yet seem to be a solution for Exercise 3
+
+Score: 0 / 3 = 0%
+
+=========================== lesson-12.ipynb ===========================
+
+There does not yet seem to be a solution for Exercise 1
+There does not yet seem to be a solution for Exercise 2
+There does not yet seem to be a solution for Exercise 3
+There does not yet seem to be a solution for Exercise 4
+There does not yet seem to be a solution for Exercise 5
+There does not yet seem to be a solution for Exercise 6
+
+Score: 0 / 6 = 0%
