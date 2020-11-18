@@ -1,14 +1,9 @@
 
 =========================== lesson-02.ipynb ===========================
 
-The solution for Exercise 11 does not yet produce the correct output.
-The solution for Exercise 12 does not yet produce the correct output.
-The solution for Exercise 13 does not yet produce the correct output.
-The solution for Exercise 14 does not yet produce the correct output.
-The solution for Exercise 15 does not yet produce the correct output.
-The solution for Exercise 16 does not yet produce the correct output.
+The solution for Exercise 4 does not yet produce the correct output.
 
-Score: 10 / 16 = 62%
+Score: 15 / 16 = 93%
 
 =========================== lesson-03.ipynb ===========================
 
@@ -40,19 +35,16 @@ Score: 3 / 6 = 50%
 
 =========================== lesson-08.ipynb ===========================
 
-There does not yet seem to be a solution for Exercise 1
-There does not yet seem to be a solution for Exercise 2
-The solution for Exercise 3 does not yet produce the correct output.
-There does not yet seem to be a solution for Exercise 4
-There does not yet seem to be a solution for Exercise 5
+The solution for Exercise 4 does not yet produce the correct output.
+The solution for Exercise 5 does not yet produce the correct output.
 
-Score: 0 / 5 = 0%
+Score: 3 / 5 = 60%
 
 =========================== lesson-09.ipynb ===========================
 
-There does not yet seem to be a solution for Exercise 1
-There does not yet seem to be a solution for Exercise 2
-There does not yet seem to be a solution for Exercise 3
+The solution for Exercise 1 does not yet produce the correct output.
+The solution for Exercise 2 does not yet produce the correct output.
+The solution for Exercise 3 does not yet produce the correct output.
 There does not yet seem to be a solution for Exercise 4
 There does not yet seem to be a solution for Exercise 5
 
@@ -60,7 +52,9 @@ Score: 0 / 5 = 0%
 
 =========================== lesson-10.ipynb ===========================
 
-Score: 5 / 5 = 100%
+The solution for Exercise 5 does not yet produce the correct output.
+
+Score: 4 / 5 = 80%
 
 =========================== lesson-11.ipynb ===========================
 
