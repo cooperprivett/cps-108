@@ -35,26 +35,17 @@ Score: 3 / 6 = 50%
 
 =========================== lesson-08.ipynb ===========================
 
-The solution for Exercise 4 does not yet produce the correct output.
-The solution for Exercise 5 does not yet produce the correct output.
-
-Score: 3 / 5 = 60%
+Score: 5 / 5 = 100%
 
 =========================== lesson-09.ipynb ===========================
 
-The solution for Exercise 1 does not yet produce the correct output.
-The solution for Exercise 2 does not yet produce the correct output.
-The solution for Exercise 3 does not yet produce the correct output.
-There does not yet seem to be a solution for Exercise 4
-There does not yet seem to be a solution for Exercise 5
+The solution for Exercise 4 does not yet produce the correct output.
 
-Score: 0 / 5 = 0%
+Score: 4 / 5 = 80%
 
 =========================== lesson-10.ipynb ===========================
 
-The solution for Exercise 5 does not yet produce the correct output.
-
-Score: 4 / 5 = 80%
+Score: 5 / 5 = 100%
 
 =========================== lesson-11.ipynb ===========================
 
