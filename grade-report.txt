@@ -27,11 +27,7 @@ Score: 9 / 10 = 90%
 
 =========================== lesson-07.ipynb ===========================
 
-The solution for Exercise 1 does not yet produce the correct output.
-The solution for Exercise 3 does not yet produce the correct output.
-The solution for Exercise 6 does not yet produce the correct output.
-
-Score: 3 / 6 = 50%
+Score: 6 / 6 = 100%
 
 =========================== lesson-08.ipynb ===========================
 
