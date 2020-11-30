@@ -1,4 +1,12 @@
 # Put your code here:
+i = []
+def repeat(a, b):
+    samples = []
+    for i in range(100):
+        samples.append(1)
+    for i in range(1):
+        samples.append(-1)
+    return samples
 
 
 

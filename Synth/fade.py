@@ -1,6 +1,12 @@
 # Put your code here:
-
-
+i = []
+def fade(a, b):
+    samples = []
+    for i in range(50)
+        samples.append(1)
+    for i in range(5):
+        samples.append(-1)
+    return samples
 
 # Keep working until you pass all these tests
 # (run them by pressing F5):
